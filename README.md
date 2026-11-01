@@ -11,7 +11,7 @@
 
 **L’application Windows x64 dédiée au déploiement et à la gestion des serveurs nanos world et de l’écosystème ZOcre.**
 
-[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](SUPPORT.md) · [Ko-fi](https://ko-fi.com/ncoreframework)
+[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](docs/SUPPORT.md) · [Sécurité](docs/SECURITY.md) · [Ko-fi](https://ko-fi.com/ncoreframework)
 
 ## Français
 
@@ -36,7 +36,7 @@ La disponibilité des intégrations et des opérations est précisée dans les [
 
 ### Installer l’application
 
-1. Téléchargez le **Setup de ZOcre Control** depuis la [release officielle](https://github.com/zocre-framework-official/zocre-control/releases/latest) et comparez son empreinte SHA-256 à celle publiée.
+1. Téléchargez le **Setup de ZOcre Control** depuis la [release officielle](https://github.com/zocre-framework-official/zocre-control/releases/latest) et comparez son [empreinte SHA-256](docs/CHECKSUMS.txt) à celle publiée.
 2. Lancez le Setup, choisissez le dossier de l’application et associez votre compte Discord.
 3. Le rôle Membre du Discord officiel est requis. Lisez la licence et acceptez-la si vous êtes d’accord, puis suivez la progression de l’installation.
 
@@ -54,7 +54,7 @@ Désinstallez **ZOcre Control** depuis les applications Windows. Les serveurs, l
 
 ### Signaler un problème
 
-Cliquez sur **Signaler un bug**, décrivez le problème, sélectionnez éventuellement vos fichiers, puis cliquez une fois sur **Envoyer le rapport**. L’envoi est volontaire et arrive au support privé. Consultez [SUPPORT.md](SUPPORT.md) avant de joindre des fichiers.
+Cliquez sur **Signaler un bug**, décrivez le problème, sélectionnez éventuellement vos fichiers, puis cliquez une fois sur **Envoyer le rapport**. L’envoi est volontaire et arrive au support privé. Consultez [SUPPORT.md](docs/SUPPORT.md) avant de joindre des fichiers.
 
 ## English
 
@@ -70,13 +70,13 @@ Integration and operation availability is detailed in the [release notes](https:
 
 ### Installation and access
 
-Download the **ZOcre Control Setup** from the [official release](https://github.com/zocre-framework-official/zocre-control/releases/latest), check its SHA-256 digest, choose the application folder, link your Discord account and accept the product licence if you agree.
+Download the **ZOcre Control Setup** from the [official release](https://github.com/zocre-framework-official/zocre-control/releases/latest), check its [SHA-256 digest](docs/CHECKSUMS.txt), choose the application folder, link your Discord account and accept the product licence if you agree.
 
 The official Discord Member role is required for protected access. After linking, membership checks for protected operations run automatically. Existing standard nanos world servers remain usable independently.
 
 Windows uninstall preserves servers, their catalogue and settings, while disconnecting Discord. Reinstallation requires linking the account again. Use compatible import if a preserved server needs to be attached again.
 
-For support, use **Report a bug** or see [SUPPORT.md](SUPPORT.md). Review selected files before sending them.
+For support, use **Report a bug** or see [SUPPORT.md](docs/SUPPORT.md). Review selected files before sending them.
 
 ## Soutenir ZOcre / Support ZOcre
 
@@ -86,6 +86,6 @@ You can support ZOcre development on **[Ko-fi](https://ko-fi.com/ncoreframework)
 
 ## Licence et composants tiers / Licence and third-party components
 
-ZOcre Control is proprietary software, governed by [ZOcre Proprietary Product License 1.0](LICENSE-ZOCRE-CONTROL.txt). Public visibility does not make the application open source. See [repository rights](LICENSE.md), [third-party notices](THIRD-PARTY-NOTICES.txt), [distribution notice](NOTICE.md) and [copyright](COPYRIGHT.md). Original third-party licence texts accompany the application.
+ZOcre Control is proprietary software, governed by [ZOcre Proprietary Product License 1.0](Licenses/LICENSE-ZOCRE-CONTROL.txt). Public visibility does not make the application open source. See [repository rights](Licenses/LICENSE.md), [third-party notices](Licenses/THIRD-PARTY-NOTICES.txt), [distribution notice](Licenses/NOTICE.md) and [copyright](Licenses/COPYRIGHT.md). Original third-party licence texts accompany the application.
 
 Copyright © 2026 Gosse Nicolas (Boubeur). All Rights Reserved.
