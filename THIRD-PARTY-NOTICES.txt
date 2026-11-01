@@ -1,0 +1,8 @@
+ZOcre Control — composants tiers / third-party components
+
+.NET 10.0.14 : DotNet-LICENSE.txt ; DotNet-THIRD-PARTY-NOTICES.txt
+Windows Desktop 10.0.14 : WindowsDesktop-LICENSE.txt
+Microsoft WebView2 1.0.4191.47 : WebView2-LICENSE.txt ; WebView2-NOTICE.txt
+
+FR : Ces composants conservent les licences originales jointes.
+EN: These components retain the accompanying original licenses.
