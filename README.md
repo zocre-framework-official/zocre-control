@@ -7,11 +7,11 @@
 [![Version](https://img.shields.io/github/v/release/zocre-framework-official/zocre-control?label=Version)](https://github.com/zocre-framework-official/zocre-control/releases/latest)
 [![Windows x64](https://img.shields.io/badge/Windows-x64-0078D4)](https://github.com/zocre-framework-official/zocre-control/releases/latest)
 [![Discord officiel](https://img.shields.io/badge/Discord-Officiel-5865F2?logo=discord&logoColor=white)](https://discord.gg/Ey4dn4Cbqj)
-[![Soutenir ZOcre](https://img.shields.io/badge/Ko--fi-Soutenir%20ZOcre-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ncoreframework)
+[![Soutenir ZOcre](https://img.shields.io/badge/Ko--fi-Soutenir%20ZOcre-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/zocreframework)
 
 **L’application Windows x64 dédiée au déploiement et à la gestion des serveurs nanos world et de l’écosystème ZOcre.**
 
-[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](docs/SUPPORT.md) · [Sécurité](docs/SECURITY.md) · [Ko-fi](https://ko-fi.com/ncoreframework)
+[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](docs/SUPPORT.md) · [Sécurité](docs/SECURITY.md) · [Ko-fi](https://ko-fi.com/zocreframework)
 
 ## Français
 
@@ -80,9 +80,9 @@ For support, use **Report a bug** or see [SUPPORT.md](docs/SUPPORT.md). Review s
 
 ## Soutenir ZOcre / Support ZOcre
 
-Vous pouvez soutenir le développement de ZOcre sur **[Ko-fi](https://ko-fi.com/ncoreframework)**.
+Vous pouvez soutenir le développement de ZOcre sur **[Ko-fi](https://ko-fi.com/zocreframework)**.
 
-You can support ZOcre development on **[Ko-fi](https://ko-fi.com/ncoreframework)**.
+You can support ZOcre development on **[Ko-fi](https://ko-fi.com/zocreframework)**.
 
 ## Licence et composants tiers / Licence and third-party components
 
