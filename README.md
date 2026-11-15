@@ -11,7 +11,7 @@
 
 **L’application Windows x64 dédiée au déploiement et à la gestion des serveurs nanos world et de l’écosystème ZOcre.**
 
-[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](docs/SUPPORT.md) · [Sécurité](docs/SECURITY.md) · [Ko-fi](https://ko-fi.com/zocreframework)
+[Télécharger ZOcre Control](https://github.com/zocre-framework-official/zocre-control/releases/latest) · [Discord officiel](https://discord.gg/Ey4dn4Cbqj) · [Support](docs/SUPPORT.md) · [Sécurité](docs/SECURITY.md) · [Confidentialité / Privacy](docs/PRIVACY.md) · [Ko-fi](https://ko-fi.com/zocreframework)
 
 ## Français
 
